@@ -7,7 +7,7 @@
 
 ### 2. Activity diagram Tiket Pesawat Online 
 
-![Screenshot (339)](https://github.com/FathiaDjawas/TiketPesawatOnline1/assets/115916422/ff15f8c2-9ec3-4a57-b4ff-3aabf78218ec)
+![Screenshot (343)](https://github.com/FathiaDjawas/TiketPesawatOnline1/assets/115916422/bd9f8497-987a-4d8e-9f52-5957706321d9)
 
 ### 3. Sequence Diagram Tiket Pesawat Online
 
