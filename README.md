@@ -3,7 +3,8 @@
 ## Buatlah Use Case Diagram, Activity Diagram, Sequence Diagram!
 
 ### 1. Usecase Tiket Pesawat Online
-![Screenshot (337)](https://github.com/FathiaDjawas/TiketPesawatOnline1/assets/115916422/90fb63b1-4e23-4cae-8915-81233aeb5a5c)
+
+![Screenshot (367)](https://github.com/FathiaDjawas/TiketPesawatOnline1/assets/115916422/cafdc3aa-d3e4-4f01-82f6-b395fa55b0ce)
 
 ### 2. Activity diagram Tiket Pesawat Online 
 
